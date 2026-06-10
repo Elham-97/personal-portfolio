@@ -657,3 +657,20 @@ nav a:hover{
     box-shadow:0 0 15px rgba(255,126,182,0.5);
 
 }
+.btn-cv{
+    background: #ff6fae;
+    color: white;
+    padding: 15px 35px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: 600;
+    display: inline-block;
+    margin-top: 15px;
+    transition: all 0.3s ease;
+}
+
+.btn-cv:hover{
+    background: #ff4d94;
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(255,111,174,0.4);
+}
